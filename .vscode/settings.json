@@ -1,0 +1,37 @@
+{
+  // ===== NeetCodeのエディタに寄せる：色付けとインデント以外は何もしない =====
+
+  // --- Go拡張の言語サーバー(gopls)を止める ---
+  // 赤波線・候補一覧・ホバー・定義ジャンプがまとめて消える
+  "go.useLanguageServer": false,
+  "go.vetOnSave": "off",
+  "go.lintOnSave": "off",
+  "go.formatTool": "default",
+
+  // --- AI補完（GitHub Copilot など）---
+  "github.copilot.enable": { "*": false },
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "editor.inlineSuggest.enabled": false,
+
+  // --- 補完・ヒント類 ---
+  "editor.quickSuggestions": { "other": "off", "comments": "off", "strings": "off" },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.wordBasedSuggestions": "off",
+  "editor.parameterHints.enabled": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.snippetSuggestions": "none",
+  "editor.tabCompletion": "off",
+  "editor.inlayHints.enabled": "off",
+  "editor.hover.enabled": false,
+  "editor.codeLens": false,
+  "editor.lightbulb.enabled": "off",
+
+  // --- エラー表示 ---
+  "problems.decorations.enabled": false,
+  "workbench.editor.decorations.colors": false,
+  "workbench.editor.decorations.badges": false,
+
+  // --- 保存時の自動整形もしない（NeetCodeは整形しない）---
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {}
+}
