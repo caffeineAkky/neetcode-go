@@ -14,7 +14,7 @@ setオブジェクトを作成して、2回目に出現した値の場合にtrue
 
 ## 詰まった点・覚えること
 ###  setオブジェクトの作り方
-    1. map[key]value{} または make(map[key]value)
+    1. map[key]bool{} または make(map[key]bool)
     2. map[key]struce{}{}
 
 ### make(map~)とmap~の違い
