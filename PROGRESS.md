@@ -7,3 +7,4 @@
 | 217 | [contains-duplicate](problems/arrays-hashing/0217-contains-duplicate) | arrays-hashing | Easy | 2026-11-23 |  | △ |
 | 242 | [valid-anagram](problems/arrays-hashing/0242-valid-anagram) | arrays-hashing | Easy | 2026-11-23 | | × |
 | 1 | [two-sum](problems/arrays-hashing/0001-two-sum) | arrays-hashing | Easy | 2026-11-23 | | × |
+| 49 | [group-anagrams](problems/arrays-hashing/0049-group-anagrams) | arrays-hashing | Medium | 2026-11-23 | | × |
