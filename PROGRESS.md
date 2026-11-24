@@ -9,4 +9,5 @@
 | 1 | [two-sum](problems/arrays-hashing/0001-two-sum) | arrays-hashing | Easy | 2026-11-23 | | × |
 | 49 | [group-anagrams](problems/arrays-hashing/0049-group-anagrams) | arrays-hashing | Medium | 2026-11-23 | | × |
 | 347 | [top-k-frequent-elements](problems/arrays-hashing/0347-top-k-frequent-elements) | arrays-hashing | Medium | 2026-11-23 | | × |
-| 271 | [encode-and-decode-strings](problems/arrays-hashing/0271-encode-and-decode-string) | arrays-hashing | Medium | 2026-11-24 | | × |
+| 271 | [encode-and-decode-strings](problems/arrays-hashing/0271-encode-and-decode-strings) | arrays-hashing | Medium | 2026-11-24 | | × |
+| 238 | [product-of-array-except-self](problems/arrays-hashing/0238-product-of-array-except-self) | arrays-hashing | Medium | 2026-11-24 | | △ |
