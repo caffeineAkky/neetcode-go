@@ -1,4 +1,4 @@
-# 238. product-of-arra-except-self (Medium)
+# 238. product-of-array-except-self (Medium)
 
 - 問題: https://leetcode.com/problems/product-of-array-except-self/
 - NeetCode: https://neetcode.io/problems/product-of-array-except-self
