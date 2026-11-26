@@ -12,3 +12,4 @@
 | 271 | [encode-and-decode-strings](problems/arrays-hashing/0271-encode-and-decode-strings) | arrays-hashing | Medium | 2026-11-24 | | × |
 | 238 | [product-of-array-except-self](problems/arrays-hashing/0238-product-of-array-except-self) | arrays-hashing | Medium | 2026-11-24 | | △ |
 | 128 | [longest-consecutive-sequence](problems/arrays-hashing/0128-longest-consecutive-sequence) | arrays-hashing | Medium | 2026-11-24 | | × |
+| 125 | [valid-palindrome](problems/two-pointers/0125-valid-palindrome) | two-pointers | Easy | 2026-11-26 | | × |
