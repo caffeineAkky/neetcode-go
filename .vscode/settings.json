@@ -22,7 +22,7 @@
   "editor.snippetSuggestions": "none",
   "editor.tabCompletion": "off",
   "editor.inlayHints.enabled": "off",
-  "editor.hover.enabled": false,
+  "editor.hover.enabled": "off",
   "editor.codeLens": false,
   "editor.lightbulb.enabled": "off",
 
